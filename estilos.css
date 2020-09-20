@@ -1,21 +1,13 @@
-nav {
-    background-color: rgb(4, 173, 4);
-  }
-  
-  nav ul {
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-  }
-  
-  li {
-    list-style: none;
-  }
-  
-  ul a {
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-    font-family: "Press Start 2P", cursive;
-    transition: 1s;
-  }
+nav{
+    background-color: greenyellow;
+    
+}
+
+.container {
+    background-color: aquamarine;
+}
+
+
+.container-fluid  {
+    background-color: aquamarine;
+}
